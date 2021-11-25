@@ -1,0 +1,5 @@
+This is the git file to test and for training Devops course
+Enter data to reverify warning about carriage return and line feed issues regarding
+difference between windows and linux
+test
+This is my java developer learning program and devops and cloud as well.
